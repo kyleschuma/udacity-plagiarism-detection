@@ -127,3 +127,9 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# Data dirs 
+__MACOSX/ 
+data.zip
+data/
+plagiarism_data/
